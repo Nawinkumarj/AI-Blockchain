@@ -45,7 +45,7 @@ const Testimonials = () => {
             </div>
             <div className="Testimonials-mob">
                 <div className="headings text-center">
-                <h1 className='title'>Testimonials</h1>
+                <p className='mob-title'>Testimonials</p>
                 <div className="testi-mob-item"></div>
             </div>
         </div>
