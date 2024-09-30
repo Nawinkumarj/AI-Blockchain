@@ -173,9 +173,6 @@ span.navbar-text{
   color: #aeaeae7e;
 }
 @media (max-width:768px) {
-  html{
-    overflow-y: hidden;
-  }
   .Banner{
     position: relative;
     height: 100vh;
