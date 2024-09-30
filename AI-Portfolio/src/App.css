@@ -174,7 +174,7 @@ span.navbar-text{
 }
 @media (max-width:768px) {
   html{
-    overflow-x: hidden;
+    overflow-y: hidden;
   }
   .Banner{
     position: relative;

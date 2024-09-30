@@ -32,10 +32,10 @@ export const NavBar = () => {
             <Navbar.Collapse id="basic-navbar-nav">
               <Nav className="navbar-nav">
                 <Nav.Link href="/" className={activeLink === 'Home' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('home')}>home</Nav.Link>
-                <Nav.Link href="/ServiceMain" className={activeLink === 'service' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('ourservice')}>services</Nav.Link>
-                <Nav.Link href="/Products" className={activeLink === 'products' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('ourproducts')}>products</Nav.Link>
-                <Nav.Link href="/Projects" className={activeLink === 'projects' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('projects')}>Projects</Nav.Link>
-                <Nav.Link href="/Contact" className={activeLink === 'contact' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('contact')}>Contact&nbsp;us</Nav.Link>
+                <Nav.Link href="/serviceMain" className={activeLink === 'service' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('ourservice')}>services</Nav.Link>
+                <Nav.Link href="/products" className={activeLink === 'products' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('ourproducts')}>products</Nav.Link>
+                <Nav.Link href="/projects" className={activeLink === 'projects' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('projects')}>Projects</Nav.Link>
+                <Nav.Link href="/contact" className={activeLink === 'contact' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('contact')}>Contact&nbsp;us</Nav.Link>
               </Nav>
               <span className='navbar-text'>
                 <div className='d-flex align-items-center'>

@@ -10,7 +10,7 @@ const AboutMain = () => {
     <Banner />
     <About />
     <Testimonials />
-    {/* <Clients /> */}
+    <Clients />
     </>
   )
 }
