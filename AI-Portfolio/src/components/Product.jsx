@@ -13,10 +13,8 @@ const Product = () => {
                     <div className="imgBx"><img src={blockchain} alt="" /></div>
                     <div className="content">
                         <div className="details">
-                        <h2>Blockchain</h2> <br />
-                        <p>Blockchain is a decentralized, distributed ledger technology that enables secure, transparent, and tam
-                            per-proof transactions.</p>
-                            <a href="">View</a>
+                        <h2>Chatbot Development</h2>
+                        <p>We specialize in developing intelligent chatbots that provide seamless, human-like interactions. Our AI-powered chatbots are designed to handle customer inquiries, automate tasks, and improve user engagement across platforms, ensuring efficient and personalized customer experiences.</p>
                         </div>
                     </div>
                 </div>
@@ -25,10 +23,8 @@ const Product = () => {
                     <div className="imgBx"><img src={chatbot} alt="" /></div>
                     <div className="content">
                         <div className="details">
-                        <h2>Chatbot</h2>
-                        <p>Artificial intelligence is a field of computer science that focuses on creating intelligent machines that
-                            can perform tasks that typically require human intelligence.</p>
-                            <a href="">View</a>
+                        <h2>RAG in LLM</h2> 
+                        <p>We implement Retrieval Augmented Generation (RAG) in Large Language Models (LLM) to enhance content generation by pulling in relevant, up-to-date information. Our RAG-powered solutions offer more accurate, making your AI systems smarter and more reliable.</p>
                         </div>
                     </div>
                 </div>
@@ -37,10 +33,38 @@ const Product = () => {
                     <div className="imgBx"><img src={blockchain} alt="" /></div>
                     <div className="content">
                         <div className="details">
-                        <h2>ROG</h2>
-                        <p>RGX is a decentralized, open-source, and community-driven platform that enables the
-                        creation, management, and monetization of digital assets.</p>
-                        <a href="">View</a>
+                        <h2>Text to Speech (TTS)</h2>
+                        <p>Our Text to Speech (TTS) service converts written text into natural, human-like speech. Ideal for creating voice-overs, accessibility tools, and interactive applications, TTS enhances user experiences by delivering clear and engaging audio content.</p>
+                        </div>
+                    </div>
+                </div>
+                <div className='product-card'>
+                    <div className="lines"></div>
+                    <div className="imgBx"><img src={blockchain} alt="" /></div>
+                    <div className="content">
+                        <div className="details">
+                        <h2>Automated AI Agent</h2>
+                        <p>Our Automated AI Agent provides intelligent, real-time responses and task automation, designed to streamline workflows and improve customer interactions. From answering queries to executing tasks, our AI agents offer seamless, efficient solutions specified for your business needs.</p>
+                        </div>
+                    </div>
+                </div>
+                <div className='product-card'>
+                    <div className="lines"></div>
+                    <div className="imgBx"><img src={blockchain} alt="" /></div>
+                    <div className="content">
+                        <div className="details">
+                        <h2>AI Voice Cloning</h2>
+                        <p>Our AI Voice Cloning service replicates human voices with stunning accuracy, allowing you to create personalized audio content. Whether for entertainment, marketing, or customer service, voice cloning delivers highly realistic and customizable vocal outputs that align with your brand or project.</p>
+                        </div>
+                    </div>
+                </div>
+                <div className='product-card'>
+                    <div className="lines"></div>
+                    <div className="imgBx"><img src={blockchain} alt="" /></div>
+                    <div className="content">
+                        <div className="details">
+                        <h2>AI Digital Marketing</h2>
+                        <p>Our AI Digital Marketing service leverages advanced algorithms to optimize campaigns, targeting the right audience with precision. From personalized content recommendations to data-driven strategies, we enhance your product marketing efforts, ensuring higher engagement and conversion rates.</p>
                         </div>
                     </div>
                 </div>

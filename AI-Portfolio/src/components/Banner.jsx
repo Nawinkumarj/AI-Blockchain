@@ -7,7 +7,7 @@ const Banner = () => {
       <div className=" Banner">
         <div className="main-text">
           <h1>Welcome to the AI world</h1>
-          <p>of Tharkuri Deveopers</p>
+          {/* <p>of Tharkuri Deveopers</p> */}
         </div>
       </div>
     

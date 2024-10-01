@@ -51,26 +51,23 @@ const AI = () => {
     <FlipCard
         firstImage="https://images.unsplash.com/photo-1477313372947-d68a7d410e9f?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb"
         secondImage="https://images.unsplash.com/photo-1477313372947-d68a7d410e9f?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb"
-        title="Kallyas Wp Theme"
+        title="Natural Language Processing"
         servImage={serviceImg}
-        description="The #1 Selling Most Enjoyable and Creative Multipurpose WordPress theme."
-        subtitle="#1 Front-end Visual Website Builder in 2016"
+        description="We offer advanced Natural Language Processing services, including text summarization, translation, text-to-speech, and text generation. Our AI-powered solutions help businesses process large amounts of data, convert text into different formats, and generate human-like responses for seamless interaction."
       />
       <FlipCard
         firstImage="https://images.unsplash.com/photo-1477313372947-d68a7d410e9f?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb"
         secondImage="https://images.unsplash.com/photo-1477313372947-d68a7d410e9f?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb"
-        title="Kallyas Wp Theme"
+        title="Sentiment Analysis"
         servImage={serviceImg}
-        description="The #1 Selling Most Enjoyable and Creative Multipurpose WordPress theme."
-        subtitle="#1 Front-end Visual Website Builder in 2016"
+        description="Our sentiment analysis service deciphers the emotions behind the text, allowing businesses to gain valuable insights into customer opinions, feedback, and trends. We help you understand the tone of conversations and make data-driven decisions that improve customer experiences."
       />
      <FlipCard
         firstImage="https://images.unsplash.com/photo-1477313372947-d68a7d410e9f?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb"
         secondImage="https://images.unsplash.com/photo-1477313372947-d68a7d410e9f?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb"
-        title="Kallyas Wp Theme"
+        title="Stable Diffusion (Text to Image, Text to 3D)"
         servImage={serviceImg}
-        description="The #1 Selling Most Enjoyable and Creative Multipurpose WordPress theme."
-        subtitle="#1 Front-end Visual Website Builder in 2016"
+        description="Our advanced Stable Diffusion technology turns your text into stunning images and 3D models. Whether you need creative visuals for marketing or detailed 3D models for product design, our AI generates visually compelling results based on simple text input."
       />
        
       <div className="clearfix"></div>

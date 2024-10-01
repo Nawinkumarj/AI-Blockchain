@@ -52,58 +52,44 @@ const Website = () => {
       <FlipCard
         firstImage="https://images.unsplash.com/photo-1477313372947-d68a7d410e9f?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb"
         secondImage="https://images.unsplash.com/photo-1477313372947-d68a7d410e9f?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb"
-        title="Kallyas Wp Theme"
+        title="Web Designing(UI/UX)"
         servImage={serviceImg}
-        description="The #1 Selling Most Enjoyable and Creative Multipurpose WordPress theme."
-        subtitle="#1 Front-end Visual Website Builder in 2016"
+        description="Offering expert web designing services that combine intuitive UI/UX design, creating visually appealing and user-friendly websites. We design engaging digital experiences exclusively for your brand and target audience."
       />
       <FlipCard
         firstImage="https://images.unsplash.com/photo-1477313372947-d68a7d410e9f?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb"
         secondImage="https://images.unsplash.com/photo-1477313372947-d68a7d410e9f?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb"
-        title="Kallyas Wp Theme"
+        title="E-commerce"
         servImage={serviceImg}
-        description="The #1 Selling Most Enjoyable and Creative Multipurpose WordPress theme."
-        subtitle="#1 Front-end Visual Website Builder in 2016"
+        description="Specializing in e-commerce website development, we create seamless, secure, and scalable online stores. Our solutions provide an exceptional shopping experience with easy navigation, user-friendly interfaces, and integrated payment gateways."
       />
      <FlipCard
         firstImage="https://images.unsplash.com/photo-1477313372947-d68a7d410e9f?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb"
         secondImage="https://images.unsplash.com/photo-1477313372947-d68a7d410e9f?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb"
-        title="Kallyas Wp Theme"
+        title="Web Application"
         servImage={serviceImg}
-        description="The #1 Selling Most Enjoyable and Creative Multipurpose WordPress theme."
-        subtitle="#1 Front-end Visual Website Builder in 2016"
-      />
-       <FlipCard
-        firstImage="https://images.unsplash.com/photo-1477313372947-d68a7d410e9f?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb"
-        secondImage="https://images.unsplash.com/photo-1477313372947-d68a7d410e9f?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb"
-        title="Kallyas Wp Theme"
-        servImage={serviceImg}
-        description="The #1 Selling Most Enjoyable and Creative Multipurpose WordPress theme."
-        subtitle="#1 Front-end Visual Website Builder in 2016"
+        description="Building bespoke web applications designed for efficiency, scalability, and optimal user engagement, tailored to meet the specific requirements of your business and enhance operational workflows."
       />
         <FlipCard
         firstImage="https://images.unsplash.com/photo-1477313372947-d68a7d410e9f?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb"
         secondImage="https://images.unsplash.com/photo-1477313372947-d68a7d410e9f?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb"
-        title="Kallyas Wp Theme"
+        title="Website Development"
         servImage={serviceImg}
-        description="The #1 Selling Most Enjoyable and Creative Multipurpose WordPress theme."
-        subtitle="#1 Front-end Visual Website Builder in 2016"
+        description="Developing responsive, secure, and high-performing websites using advanced technologies, Assuring a strong digital presence that drives your business goals and delivers a seamless user experience."
       />
         <FlipCard
         firstImage="https://images.unsplash.com/photo-1477313372947-d68a7d410e9f?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb"
         secondImage="https://images.unsplash.com/photo-1477313372947-d68a7d410e9f?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb"
-        title="Kallyas Wp Theme"
+        title="Landing Pages"
         servImage={serviceImg}
-        description="The #1 Selling Most Enjoyable and Creative Multipurpose WordPress theme."
-        subtitle="#1 Front-end Visual Website Builder in 2016"
+        description="Creating conversion-focused landing pages with clear messaging and strategic calls-to-action, focusing to maximize engagement and optimize your marketing campaigns."
       />
        <FlipCard
         firstImage="https://images.unsplash.com/photo-1477313372947-d68a7d410e9f?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb"
         secondImage="https://images.unsplash.com/photo-1477313372947-d68a7d410e9f?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb"
-        title="Kallyas Wp Theme"
+        title="Web Maintenance"
         servImage={serviceImg}
-        description="The #1 Selling Most Enjoyable and Creative Multipurpose WordPress theme."
-        subtitle="#1 Front-end Visual Website Builder in 2016"
+        description="Providing proactive web maintenance services that make sure your website remains secure, up-to-date, and performs flawlessly, minimizing downtime and keeping your business running smoothly."
       />
       <div className="clearfix"></div>
      

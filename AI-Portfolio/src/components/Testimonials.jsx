@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Container } from 'react-bootstrap';
+import { Container, Carousel } from 'react-bootstrap';
 import testi from '../assets/testi.jpeg';  // Ensure this path matches your image location
 
 const Testimonials = () => {
@@ -43,12 +43,60 @@ const Testimonials = () => {
                     </div>
                 </div>
             </div>
-            <div className="Testimonials-mob">
-                <div className="headings text-center">
-                <p className='mob-title'>Testimonials</p>
-                <div className="testi-mob-item"></div>
+        <div className="testimonials-mv-container">
+            <Carousel indicators={false}>
+                <Carousel.Item>
+                <div className="testimonial4_slide">
+                    <img
+                    src="https://i.ibb.co/8x9xK4H/team.jpg"
+                    className="img-circle img-responsive"
+                    alt="Client 1"
+                    />
+                    <p>
+                    Lorem Ipsum is simply dummy text of the printing and typesetting
+                    industry. Lorem Ipsum has been the industry's standard dummy text
+                    ever since the 1500s, when an unknown printer took a galley of
+                    type and scrambled it to make a type specimen book.
+                    </p>
+                    <h4>Client 1</h4>
+                </div>
+                </Carousel.Item>
+
+                <Carousel.Item>
+                <div className="testimonial4_slide">
+                    <img
+                    src="https://i.ibb.co/8x9xK4H/team.jpg"
+                    className="img-circle img-responsive"
+                    alt="Client 2"
+                    />
+                    <p>
+                    Lorem Ipsum is simply dummy text of the printing and typesetting
+                    industry. Lorem Ipsum has been the industry's standard dummy text
+                    ever since the 1500s, when an unknown printer took a galley of
+                    type and scrambled it to make a type specimen book.
+                    </p>
+                    <h4>Client 2</h4>
+                </div>
+                </Carousel.Item>
+
+                <Carousel.Item>
+                <div className="testimonial4_slide">
+                    <img
+                    src="https://i.ibb.co/8x9xK4H/team.jpg"
+                    className="img-circle img-responsive"
+                    alt="Client 3"
+                    />
+                    <p>
+                    Lorem Ipsum is simply dummy text of the printing and typesetting
+                    industry. Lorem Ipsum has been the industry's standard dummy text
+                    ever since the 1500s, when an unknown printer took a galley of
+                    type and scrambled it to make a type specimen book.
+                    </p>
+                    <h4>Client 3</h4>
+                </div>
+                </Carousel.Item>
+            </Carousel>
             </div>
-        </div>
         </Container>
     );
 }
